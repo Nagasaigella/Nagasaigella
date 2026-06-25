@@ -1,7 +1,7 @@
 # 💫 About Me:
- I’m currently working on real-world projects<br> I’m currently learning SQL, Python, Excel
+ <br> I’m currently learning SQL, Python, Excel
 
-;
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nagasai_gella) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nagasai-gella-778160253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gellanagsai@gmail.com) 
 
